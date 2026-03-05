@@ -41,36 +41,55 @@ Wazuh 4.7                 Wazuh Agent 4.7
 ## Detection Highlights
 
 ### Brute Force — T1110
+##### Brute Force Alert
 ![Brute Force Alert](screenshots/1-brute-force-alert.png)
+##### Brute Force Detail
 ![Brute Force Detail](screenshots/1-brute-force-detail.png)
+##### Brute Force MITRE
 ![Brute Force MITRE](screenshots/1-brute-force-mitre.png)
 
 ### File Integrity Violation — T1070.004
+##### FIM File Added Alert
 ![FIM Alert](screenshots/2-file-integrity-addition-alert.png)
+##### FIM File Added Detail
 ![FIM Detail](screenshots/2-file-integrity-addition-detail.png)
-![FIM MITRE](screenshots/2-file-integrity-addition-mitre.png)
+##### FIM File Deleted Alert
 ![FIM Alert](screenshots/2-file-integrity-deletion-alert.png)
+##### FIM File Deleted Detail
 ![FIM Detail](screenshots/2-file-integrity-deletion-detail.png)
+##### FIM File Deleted MITRE
 ![FIM MITRE](screenshots/2-file-integrity-deletion-mitre.png)
 
 ### New Admin Account — T1098, T1484
+##### Admin Acct Creation Alert
 ![Admin Alert](screenshots/3-admin-account-creation-alert.png)
+##### Admin Acct Creation Detail
 ![Admin Detail](screenshots/3-admin-account-creation-detail-1.png)
 ![Admin Detail](screenshots/3-admin-account-creation-detail-2.png)
+##### Admin Acct Creation MITRE
 ![Admin MITRE](screenshots/3-admin-account-creation-mitre.png)
+##### Admin Acct Localgroup Alert
 ![Admin Alert](screenshots/3-admin-account-localgroup-alert.png)
+##### Admin Acct Localgroup Detail
 ![Admin Detail](screenshots/3-admin-account-localgroup-detail-1.png)
 ![Admin Detail](screenshots/3-admin-account-localgroup-detail-2.png)
+##### Admin Acct Localgroup MITRE
 ![Admin MITRE](screenshots/3-admin-account-localgroup-mitre.png)
 
 ### Clear Event Logs — T1070.001
+##### Event Log Alert
 ![Event Log Alert](screenshots/4-event-log-clear-alert.png)
+##### Event Log Detail
 ![Event Log Detail](screenshots/4-event-log-clear-detail.png)
+##### Event Log MITRE
 ![Event Log MITRE](screenshots/4-event-log-clear-mitre.png)
 
 ### Malicious Service Creation — T1543.003
+##### Service Alert
 ![Service Alert](screenshots/5-service-creation-alert.png)
+##### Service Detail
 ![Service Detail](screenshots/5-service-creation-detail.png)
+##### Service MITRE
 ![Service MITRE](screenshots/5-service-creation-mitre.png)
 
 ## Detection Gaps & Tuning
