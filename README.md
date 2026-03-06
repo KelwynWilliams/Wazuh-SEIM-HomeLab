@@ -1,5 +1,7 @@
 # Wazuh SIEM Home Lab
 
+![Wazuh_Dashboard](screenshots/Wazuh.png)
+
 ## Overview
 Deployed a Wazuh SIEM in a VMware Workstation virtualized environment 
 to monitor a Windows 10 endpoint. Simulated five real-world attack 
